@@ -1,4 +1,4 @@
 # Seyzars.github.io
 Первый сайт
 
-[Урок 12](http://example.com/ "Первый проект")
+[Урок 12](https://seyzars.github.io/lesson_12/ "Первый проект")
